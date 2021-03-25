@@ -1,4 +1,4 @@
-FROM impactantehub/eppapi-basic-environment:1.9
+FROM edsonsoares/poco:1.9-ubuntu
 
 ENV DEBIAN_FRONTEND noninteractive
 
